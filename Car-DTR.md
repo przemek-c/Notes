@@ -1,13 +1,17 @@
-# Dokumentacja Techniczno-Ruchowa (DTR) pojazdu
+# Dokumentacja Techniczno-Ruchowa
 
-## 🚗 Informacje o pojeździe
-* **Marka i model:** Hyundai i10 (Generacja II, Facelift)
-* **Rok produkcji:** 2017
-* **Silnik:** 1.0 MPI (3-cylindrowy, benzyna)
-* **Moc:** 67 KM (49 kW)
-* **Kod silnika:** G3LA
-* **Data zakupu:** 2023-09-16
-* **Stan licznika przy zakupie:** 89 400 km
+## ‼️ Pilne
+* **Nabić klimatyzację:** Zajechać tylko i robi z miejsca
+* **Wymienić hamulce z przodu:** Tam chyba były prawie że do roboty i powiedział żeby dojeździć i na wiosnę '26 przyjechać
+* **Termostat:**  Do zweryfikowania jeszcze czy na pewno termostat. Nowy jest zakupiony, leży w komórce. Też powiedział że nie ma czasu za bardzo i na wiosnę '26 przyjechać.
+
+## 💡 Notatki podręczne / Szybka diagnostyka
+* *Ciśnienie w kołach (przód/tył):* 2.2 bar / 2.2 bar (Sprawdź na naklejce w progu drzwi kierowcy)
+* *Wycieraczki przód/tył:* 550mm / 400mm / 300mm (Zmierzyć przed zakupem nowych)
+* *Ozonowanie:* Połączyć z wymianą filtra kabinowego. Najlepiej wyjąć stary filtr, przeprowadzić proces ozonowania i zaraz po nim założyć nowy filtr.
+* **Spore zużycie paliwa:** Pokazuje średnie zużycie paliwa ok 12.5 l/100km. Zresetować licznik i przejechać się kilkanaście kilometrów. Hamulce mogą trzymać ale to raczej nie to. Może to być jeszcze przez ten termostat. 
+* *Wizyta u mechanika:* **rewsko ważne robić sobie ksero kartki tego co chcę żeby zrobił.
+* *Wymiana filtra kabinowego:* [Link do wideo](https://www.youtube.com/watch?v=-MNgi-SBXz8)
 
 ---
 
@@ -26,20 +30,20 @@
 
 | Element | Interwał (Km / Czas) | Uwagi | Status |
 | :--- | :--- | :--- | :--- |
-| **Olej silnikowy + filtr** | co 10 000 - 15 000 km / 1 rok | Najważniejsza czynność | |
-| **Filtr kabinowy** | co 15 000 km / 1 rok | Warto wymienić przed zimą/wiosną. Twierdził że nie ma więc nie wymienił | |
-| **Filtr powietrza** | co 30 000 - 45 000 km / 2 lata | Wymienić wcześniej, jeśli jest brudny ||
-| **Płyn hamulcowy** | co 40 000 km / 2 lata | Test temperatury wrzenia lub wymiana ||
-| **Świece zapłonowe** | co 45 000 - 60 000 km | Zapobiega wypadaniu zapłonów ||
-| **Płyn chłodniczy** | pierwsza wymiana po ok. 100-120 tys. km, potem co 40 tys. km / 2 lata | Chroni aluminiowy blok silnika ||
-| **Pasek osprzętu (klinowy)** | Kontrola co 30 000 km, wymiana przy oznakach zużycia | Napędza alternator i klimatyzację ||
-| **Filtr paliwa** | Kontrola okresowa (często zintegrowany w baku) | Zależnie od jakości paliwa ||
+| **Olej silnikowy + filtr** | co 10 000 - 15 000 km / 1 rok | Wymieniono przez mechanika 2*026-09-01?* | Czekamy na jesień '26|
+| **Filtr kabinowy** | co 15 000 km / 1 rok. <br> Warto wymienić na wiosnę | Twierdził że nie ma więc nie wymienił | Czekamy na wiosnę '27 |
+| **Filtr powietrza** | co 30 000 - 45 000 km / 2 lata | Wymienić wcześniej, jeśli jest brudny | Sprawdzić ⬅️ |
+| **Płyn hamulcowy** | co 40 000 km / 2 lata | Test temperatury wrzenia lub wymiana | Sprawdzić ⬅️ |
+| **Świece zapłonowe** | co 45 000 - 60 000 km | Zapobiega wypadaniu zapłonów | Wymieniane jesień '26 ale sprawdzić ⬅️|
+| **Płyn chłodniczy** | pierwsza wymiana po ok. 100-120 tys. km, potem co 40 tys. km / 2 lata | Chroni aluminiowy blok silnika | Szykować się na wymianę|
+| **Pasek osprzętu (klinowy)** | Kontrola co 30 000 km, wymiana przy oznakach zużycia | Napędza alternator i klimatyzację | Sprawdzić ⬅️ |
+| **Filtr paliwa** | Kontrola okresowa (często zintegrowany w baku) | Zależnie od jakości paliwa | Sprawdzić ⬅️|
 | **Ozonowanie** | Raz w roku wiosną | Najlepiej połączyć z wymianą filtra kabinowgo | Czekamy na wiosnę 2027 |
 
 ---
 
 ## 🛠️ Dziennik Napraw i Obsługi
-*Wpisuj tutaj każdą wizytę u mechanika, wymianę opon lub samodzielną naprawę. Sortuj chronologicznie od najnowszych.*
+
 
 ### [RRRR-MM-DD] – Przegląd startowy (Przykład)
 * **Przebieg:** 85 430 km
@@ -57,7 +61,17 @@
   * Dezynfekcja klimatyzacji (Ozonowanie)
 * **Koszt części:** 0 PLN
 * **Koszt robocizny:** Samodzielnie (0 PLN)
-* **Uwagi:** Następna wymiana oleju przy 95 400 km.
+
+---
+
+## 🚗 Informacje o pojeździe
+* **Marka i model:** Hyundai i10 (Generacja II, Facelift)
+* **Rok produkcji:** 2017
+* **Silnik:** *1.0 MPI (3-cylindrowy, benzyna)?*
+* **Moc:** 67 KM (49 kW)
+* **Kod silnika:** *G3LA?*
+* **Data zakupu:** 2023-09-16
+* **Stan licznika przy zakupie:** 89 400 km
 
 ---
 
@@ -68,18 +82,12 @@
 ---
 
 ## 🛞 Rejestr Opon
-* **Opony Letnie:** `Marka Model` (Rozmiar np. 175/65 R14), Rok produkcji (DOT): `XXXX`, Bieżnik: `X.X` mm
-* **Opony Zimowe:** `Marka Model` (Rozmiar), Rok produkcji (DOT): `XXXX`, Bieżnik: `X.X` mm
+* **Opony Zimowe:**  
+2x `Marka Model` (Rozmiar np. 175/65 R14), Rok produkcji (DOT): `XXXX`, Bieżnik: `X.X` mm **(przód)**  
+2x `Marka Model` (Rozmiar np. 175/65 R14), Rok produkcji (DOT): `XXXX`, Bieżnik: `X.X` mm  **(tył)**
 
----
-
-## 💡 Notatki podręczne / Szybka diagnostyka
-* *Ciśnienie w kołach (przód/tył):* 2.2 bar / 2.2 bar (Sprawdź na naklejce w progu drzwi kierowcy)
-* *Wycieraczki przód/tył:* 550mm / 400mm / 300mm (Zmierzyć przed zakupem nowych)
-* *Ozonowanie:* Połączyć z wymianą filtra kabinowego. Najlepiej wyjąć stary filtr, przeprowadzić proces ozonowania i zaraz po nim założyć nowy filtr.
-* *Spore zużycie paliwa:* Pokazuje średnie zużycie paliwa ok 12.5 l/100km. Zresetować licznik i przejechać się kilkanaście kilometrów. Hamulce mogą trzymać ale to raczej nie to. Może to być jeszcze przez ten termostat. 
-* *Wizyta u mechanika:* **rewsko ważne robić sobie ksero kartki tego co chcę żeby zrobił.
-* *Wymiana filtra kabinowego:* [Link do wideo](https://www.youtube.com/watch?v=-MNgi-SBXz8)
+* **Opony Letnie:**  
+4x `Marka Model` (Rozmiar), Rok produkcji (DOT): `XXXX`, Bieżnik: `X.X` mm
 
 ---
 
