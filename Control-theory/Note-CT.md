@@ -8,7 +8,7 @@ mindmap
     Systems
         Continuous
         Discrete
-    Modeling
+    System representation 
         Transfer Functions
         State Space
         Block Diagrams
@@ -40,4 +40,9 @@ We can explore each topic one by one:
 - stability criteria
 - time and frequency domain behavior
 - controller types
+
+### System representation 
+- What is the difference between a transfer function and a state-space model?
+- When would you prefer one over the other
+- How do block diagrams help when you combine several subsystems?
   
