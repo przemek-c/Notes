@@ -2,14 +2,12 @@
 
 ## ‼️ Pilne
 * **Nabić klimatyzację:** Zajechać tylko i robi z miejsca
-* **Wymienić hamulce z przodu:** Tam chyba były prawie że do roboty i powiedział żeby dojeździć i na wiosnę '26 przyjechać
-* **Termostat:**  Do zweryfikowania jeszcze czy na pewno termostat. Nowy jest zakupiony, leży w komórce. Też powiedział że nie ma czasu za bardzo i na wiosnę '26 przyjechać.
+* **Wymienić hamulce z przodu:** Tarcze są do wymiany już ale można jeszcze trochę klocki dojeździć i dopiero
+* **Termostat:**  Wymieniony na nowy ale nie poprawiło sytuacji, niby te koreańskie tak mają i mechanik by się nie przejmował
 
 ## 💡 Notatki podręczne / Szybka diagnostyka
-* *Ciśnienie w kołach (przód/tył):* 2.2 bar / 2.2 bar (Sprawdź na naklejce w progu drzwi kierowcy)
 * *Wycieraczki przód/tył:* 550mm / 400mm / 300mm (Zmierzyć przed zakupem nowych)
 * *Ozonowanie:* Połączyć z wymianą filtra kabinowego. Najlepiej wyjąć stary filtr, przeprowadzić proces ozonowania i zaraz po nim założyć nowy filtr.
-* **Spore zużycie paliwa:** Pokazuje średnie zużycie paliwa ok 12.5 l/100km. Zresetować licznik i przejechać się kilkanaście kilometrów. Hamulce mogą trzymać ale to raczej nie to. Może to być jeszcze przez ten termostat. 
 * *Wizyta u mechanika:* **rewsko ważne robić sobie ksero kartki tego co chcę żeby zrobił.
 * *Wymiana filtra kabinowego:* [Link do wideo](https://www.youtube.com/watch?v=-MNgi-SBXz8)
 
@@ -62,6 +60,13 @@
 * **Koszt części:** 0 PLN
 * **Koszt robocizny:** Samodzielnie (0 PLN)
 
+### [2026-08-19] – Termostat i próba wyeliminowania pisku
+* **Przebieg:** 110 600 km
+* **Wykonane czynności:**
+  * Wymiana tarcz i klocków z tyłu
+  * Przejrzenie ukł. hamulcowego z przodu
+  * Wymiana termostatu
+* **Koszt części i robocizny:** 900 PLN
 ---
 
 ## 🚗 Informacje o pojeździe
@@ -72,12 +77,6 @@
 * **Kod silnika:** *G3LA?*
 * **Data zakupu:** 2023-09-16
 * **Stan licznika przy zakupie:** 89 400 km
-
----
-
-## 📋 Opłaty, Ubezpieczenia i Terminy
-* **Badanie techniczne ważne do:** `2026-09-16`
-* **Ubezpieczenie OC/AC ważne do:** `2026-10-06`
 
 ---
 
@@ -97,4 +96,5 @@
 | 2023 | 89 408   |    nd   |
 | 2024 | 96 424   | +7 016  |
 | 2025 | 104 754  | +8 330  |
+| 2026 | 111 000  | +7 000  | 
 
